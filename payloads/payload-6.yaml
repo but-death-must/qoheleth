@@ -1,0 +1,23 @@
+payload:
+  project-uri: post-self.io/entry/qoheleth-1
+  project-name: sha$ab9bc3784c3c22a87f86da853383bdbbff65eb90
+  code-name: Giraffes
+  share: IMAGE PRIVATE; SHARE MISSING; PLEASE `IDENTIFY`
+  scheme:
+    shares: 8
+    threshold: 5
+  security:
+    level: dynamic
+    method: recursive
+    confidence: 99999992
+    bits: 192
+  next:
+    format: digital
+    service-type: physical
+    coordinates:
+      - 35
+      - 165
+      - 134
+      - 227
+    separator: "."
+    code-name: Cloud

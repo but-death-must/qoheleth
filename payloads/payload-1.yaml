@@ -1,0 +1,17 @@
+payload:
+  project-uri: post-self.io/entry/qoheleth-1
+  project-name: sha$ab9bc3784c3c22a87f86da853383bdbbff65eb90
+  code-name: Tree
+  share: 1-bb691b959d0e82c2c14aa3d942d0d5a2c04ace8458c5ab67
+  scheme:
+    shares: 8
+    threshold: 5
+  security:
+    level: dynamic
+    method: recursive
+    confidence: 99999997
+    bits: 192
+  next:
+    format: digital
+    service-type: image-share
+    code-name: Tumble

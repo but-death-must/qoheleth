@@ -1,0 +1,61 @@
+digraph map {
+    rankdir=LR;
+
+    github -> pr;
+
+    pr -> qoheleth1;
+    pr -> pgpblock;
+
+    qoheleth1 -> aesblock;
+    aesblock -> sshkey;
+    aesblock -> solitairekey;
+
+
+    payload1 -> ssss; payload1 -> payload2; pr -> payload1; // adapted from lorxus, image in PR
+    payload2 -> ssss; payload2 -> payload3; tumblr -> payload2; // https://now-be-chosen.tumblr.com | https://tmblr.co/ZZIuve2GtJilu
+    payload3 -> ssss; payload3 -> payload4; twitter -> payload3; // micro payload thunderclap
+    payload4 -> ssss; payload4 -> payload5; github -> payload4; // github user icon
+    payload5 -> ssss; payload5 -> payload6; physical_CA -> payload5; // in or around philz
+    payload6 -> ssss; payload6 -> payload7; imgur -> payload6; // uploaded as HebelQoheleth
+    payload7 -> ssss; payload7 -> payload8; nodeab9bc378 -> payload7;
+    payload8 -> ssss; payload8 -> payload1; qoheleth1 -> payload8; // in frontmatter
+
+    ssss -> txti;
+
+    txti -> nodec4ef31fd_private;
+    nodec4ef31fd_private -> airemout;
+    airemout -> aeskey1;
+    aeskey1 -> aesblock;
+
+    archive -> node7cbc92e6 -> wrap_py;
+    archive -> node32c5a64b -> solitaireblock;
+    archive -> node36b1d8c1 -> aesblock;
+    archive -> node67e97446_private -> gist67e97446 -> qoheleth4;
+    archive -> node80b42deb -> qoheleth3;
+    archive -> node172fb56e_private -> qoheleth2;
+    archive -> node746e401e_private; // was going to be end? not really used now
+    archive -> nodeab9bc378; // -> payload7
+    archive -> nodebea0cf30 -> node172fb56e_private;
+    archive -> nodec4ef31fd_private; // -> airemout
+    archive -> nodef6981a07 -> Makefile;
+
+    Makefile -> aeskey2;
+    aeskey2 -> node80b42deb;
+
+    qoheleth3 -> lifename;
+
+    qoheleth4 -> node32c5a64b;
+    qoheleth4 -> gist0fedcbbb -> solitaireimpl;
+
+    solitairekey -> solitaireimpl -> solitaireblock -> sshdetails;
+    sshkey -> sshdetails;
+
+    sshdetails -> pgpkey;
+    lifename -> pgpkey;
+
+    pgpkey -> pgpblock;
+
+    pgpblock -> qoheleth5;
+
+    qoheleth1 -> qoheleth2 -> qoheleth3 -> qoheleth4 -> qoheleth5;
+}

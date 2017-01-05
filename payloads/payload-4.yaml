@@ -1,0 +1,22 @@
+payload:
+  project-uri: post-self.io/entry/qoheleth-1
+  project-name: sha$ab9bc3784c3c22a87f86da853383bdbbff65eb90
+  code-name: Software
+  share: 4-d9f0aa3b9f9f8df1fbde586ba9efed6ee3ddc432e185e1b2
+  scheme:
+    shares: 8
+    threshold: 5
+  security:
+    level: dynamic
+    method: recursive
+    confidence: 99999994
+    bits: 192
+  next:
+    format: physical
+    service-type: physical
+    coordinates:
+      - 37.333621
+      - -121.884912
+    separator: ","
+    radius: 10m
+    code-name: Passage
