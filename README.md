@@ -5,7 +5,7 @@ Archive
         clade: Ode
         size: micro
         name: Hebel Qoheleth
-        owner: 113458d2c52e3a263b4917d0cf46b79b583e6fb6
+        owner-hash: 113458d2c52e3a263b4917d0cf46b79b583e6fb6
         coordinates: 35.165.134.227
         data: text,executable
         comment: <<END_COMMENT
