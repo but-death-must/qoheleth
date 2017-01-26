@@ -1,8 +1,10 @@
 # Qoheleth - a post-self ARG
 
-Qoheleth is a work of fiction in five parts, distributed as an ARG. If you are reading this, then the initial ARG is finished. However, all the assets will remain in place for quite some time, so if you *want* to play, you still can.
+Qoheleth is a work of fiction in five parts, distributed as an ARG. If you are reading this, then the initial ARG is finished. However, all the assets will remain in place for quite some time, so if you *want* to play, you still can (look for "Qoheleth (1) on post-self.io/entries). Qoheleth was solved on Jan 26, 2017 by [Riismo](http://post-self.io/about/contributors#riismo).
 
 Consider that your spoiler warning.
+
+If you just want to read the story, it's up [here](http://post-self.io/entry/qoheleth).
 
 ![Map of Qoheleth](/map-labels.png)
 
@@ -69,7 +71,7 @@ Shares:
     7-76eb0989083434f8222381950f39941e4e5d59a5544df784 on EC2 instance, link in story (yaml)
     8-d654bf5fd82236a0b27d42794b83a21e141469616d9c7f81 as metadata on story (yaml)
 
-Solitaire impl: ~~https://github.com/but-death-must/cards~~ https://github.com/makyo/cards
+Solitaire impl: ~~https://github.com/but-death-must/cards~~ https://github.com/makyo/cards via https://gist.github.com/but-death-must/0fedcbbb5e9839936ce799ece39fcd49
 
 Solitaire key: ♦2 ♠8 ♠Q ♦8 ♣9 ♣Q ♥2 ♦A ♦4 ♣4 ♣3 ♣A ♠J ♣2 ♦7 ♦5 ♠7 ♥9 ♥5 ♠10 ♥7 AX ♥10 ♠3 ♥4 ♣8 ♠9 ♣6 ♠4 ♥J ♥K ♣10 ♦J BX ♣5 ♣K ♣J ♥8 ♥3 ♦9 ♠2 ♠A ♥Q ♥A ♥6 ♦K ♠5 ♣7 ♦Q ♦10 ♠6 ♦6 ♦3 ♠K
 
@@ -140,6 +142,8 @@ Dear's lovely, and it's totally right: on the other side of the clade, there are
 Forking and mutating, forking and mutating. You can change your form easily enough, but it's much harder to change your sensorium. #qoheleth
 
 I know I'm gone, I'm a lost cause, but much of the clade still has their faculties about them. #qoheleth
+
+There are three parts to the Tanakh, I'm told. The Torah, or teachings; the Nevi'im, or Prophets; and the Ketuvim, or writings. #qoheleth
 
 ### thunderclap
 
