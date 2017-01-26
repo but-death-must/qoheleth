@@ -69,7 +69,7 @@ Shares:
     7-76eb0989083434f8222381950f39941e4e5d59a5544df784 on EC2 instance, link in story (yaml)
     8-d654bf5fd82236a0b27d42794b83a21e141469616d9c7f81 as metadata on story (yaml)
 
-Solitaire impl: https://github.com/but-death-must/cards
+Solitaire impl: ~~https://github.com/but-death-must/cards~~ https://github.com/makyo/cards
 
 Solitaire key: ♦2 ♠8 ♠Q ♦8 ♣9 ♣Q ♥2 ♦A ♦4 ♣4 ♣3 ♣A ♠J ♣2 ♦7 ♦5 ♠7 ♥9 ♥5 ♠10 ♥7 AX ♥10 ♠3 ♥4 ♣8 ♠9 ♣6 ♠4 ♥J ♥K ♣10 ♦J BX ♣5 ♣K ♣J ♥8 ♥3 ♦9 ♠2 ♠A ♥Q ♥A ♥6 ♦K ♠5 ♣7 ♦Q ♦10 ♠6 ♦6 ♦3 ♠K
 
