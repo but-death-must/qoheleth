@@ -1,0 +1,26 @@
+payload:
+  project-uri: post-self.io/entry/qoheleth-1
+  project-name: sha$ab9bc3784c3c22a87f86da853383bdbbff65eb90
+  code-name: Frontmatter
+  share: 8-d654bf5fd82236a0b27d42794b83a21e141469616d9c7f81
+  scheme:
+    shares: 8
+    threshold: 5
+  security:
+    level: dynamic
+    method: recursive
+    confidence: 99999999
+    bits: 192
+  next:
+    format: digital
+    service-type: collection
+    collection:
+      - Tree
+      - Tumble
+      - Birds
+      - Software
+      - Passage
+      - Giraffe
+      - Cloud
+      - Frontmatter
+    code-name: Tree

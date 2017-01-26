@@ -1,0 +1,17 @@
+payload:
+  project-uri: post-self.io/entry/qoheleth-1
+  project-name: sha$ab9bc3784c3c22a87f86da853383bdbbff65eb90
+  code-name: Tumble
+  share: 2-5b7d05093625f975ac19afa7ab21bffe6974f20a9ac3d2e4
+  scheme:
+    shares: 8
+    threshold: 5
+  security:
+    level: dynamic
+    method: recursive
+    confidence: 99999996
+    bits: 192
+  next:
+    format: digital
+    service-type: social
+    code-name: Birds

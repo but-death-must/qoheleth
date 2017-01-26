@@ -1,0 +1,12 @@
+%echo Generating a basic OpenPGP key
+Key-Type: default
+Key-Length: 2048
+Subkey-Type: ELG-E
+Subkey-Length: 1024
+Name-Real: Hebel Qoheleth
+Name-Comment: Line 2 of the Ode
+Name-Email: life.breeds.life@gmail.com
+Expire-Date: 0
+Passphrase: lifebreedslifebutdeathmustnowbechosen
+%commit
+%echo done

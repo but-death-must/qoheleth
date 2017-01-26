@@ -1,0 +1,17 @@
+payload:
+  project-uri: post-self.io/entry/qoheleth-1
+  project-name: sha$ab9bc3784c3c22a87f86da853383bdbbff65eb90
+  code-name: Passage
+  share: 5-0e90e1933675e1987690abeecb663c75573b7da40009ed9b
+  scheme:
+    shares: 8
+    threshold: 5
+  security:
+    level: dynamic
+    method: recursive
+    confidence: 99999993
+    bits: 192
+  next:
+    format: digital
+    service-type: image-share
+    code-name: Giraffes
