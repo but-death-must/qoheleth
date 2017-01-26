@@ -79,14 +79,18 @@ Plaintext: server three five dot one six five dot one three four dot two two sev
 
 Copypasta:
 ♦2 ♠8 ♠Q ♦8 ♣9 ♣Q ♥2 ♦A ♦4 ♣4 ♣3 ♣A ♠J ♣2 ♦7 ♦5 ♠7 ♥9 ♥5 ♠10 ♥7 AX ♥10 ♠3 ♥4 ♣8 ♠9 ♣6 ♠4 ♥J ♥K ♣10 ♦J BX ♣5 ♣K ♣J ♥8 ♥3 ♦9 ♠2 ♠A ♥Q ♥A ♥6 ♦K ♠5 ♣7 ♦Q ♦10 ♠6 ♦6 ♦3 ♠K
-Plaintext: server three five dot one six five dot one three four dot two two seven stop username quote qoheleth quote lower case stop normal key stop passphrase for key you receive is quote nevi apostrophe im quote title case one word end message
+server three five dot one six five dot one three four dot two two seven stop username quote qoheleth quote lower case stop normal key stop passphrase for key you receive is quote nevi apostrophe im quote title case one word end message
 
 Cyphertext:
-OOCYNX GRIMN CYJPE PNNXS SCIQZ KTWQW FBAVY FBOPA QERLB HWIJW KPELO UCLAN OKHPM PCPWR NZNZQ NMTIQ BKNGH UWFMG BPPZS CNRKX TKEMU AFNOG BBMFZ QFZMW WAMMD XLNEU QFMKR DAESW CGHPD WKEDK EZINN NMYTE VPDMN VSSFR AVCGC ZXOCW HIYLE TTYAW RLZXL ZJHFN RGJML ISIID ORGJK
+OCYNX GRIMN CYJPE PNNXS SCIQZ
+KTWQW FBAVY FBOPA QERLB HWIJW
+KPELO UCLAN OKHPM PCPWR NZNZQ
+NMTIQ BKNGH UWFMG BPPZS CNRKX
+TKEMU AFNOS VQUNW
 
 Copypasta:
 ♦2 ♠8 ♠Q ♦8 ♣9 ♣Q ♥2 ♦A ♦4 ♣4 ♣3 ♣A ♠J ♣2 ♦7 ♦5 ♠7 ♥9 ♥5 ♠10 ♥7 AX ♥10 ♠3 ♥4 ♣8 ♠9 ♣6 ♠4 ♥J ♥K ♣10 ♦J BX ♣5 ♣K ♣J ♥8 ♥3 ♦9 ♠2 ♠A ♥Q ♥A ♥6 ♦K ♠5 ♣7 ♦Q ♦10 ♠6 ♦6 ♦3 ♠K
-OCYNX GRIMN CYJPE PNNXS SCIQZ KTWQW FBAVY FBOPA QERLB HWIJW KPELO UCLAN OKHPM PCPWR NZNZQ NMTIQ BKNGH UWFMG BPPZS CNRKX TKEMU AFNOG BBMFZ QFZMW WAMMD XLNEU QFMKR DAESW CGHPD WKEDK EZINN NMYTE VPDMN VSSFR AVCGC ZXOCW HIYLE TTYAW RLZXL ZJHFN RGJML ISIID ORGJK
+OCYNX GRIMN CYJPE PNNXS SCIQZ KTWQW FBAVY FBOPA QERLB HWIJW KPELO UCLAN OKHPM PCPWR NZNZQ NMTIQ BKNGH UWFMG BPPZS CNRKX TKEMU AFNOS VQUNW
 
 ssh message:
 
