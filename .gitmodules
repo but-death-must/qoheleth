@@ -1,0 +1,3 @@
+[submodule "perfect-edition"]
+	path = perfect-edition
+	url = https://github.com/robinsloan/perfect-edition
